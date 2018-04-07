@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180406013500 -0300" stop="20180406035000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Exorcista</title>
+    <sub-title lang="pt">Versão do Diretor</sub-title>
+    <desc lang="pt">Regan, filha adolescente de uma atriz, começa a se comportar de maneira hostil e violenta, o que leva sua mãe a pedir a ajuda a um jovem padre perturbado por dilemas existenciais(n)</desc>
+    <credits>
+      <director>William Friedkin</director>
+      <actor>Jason Miller</actor>
+      <actor>Jack MacGowran</actor>
+      <actor>Kitty Winn</actor>
+      <actor>Lee J. Cobb</actor>
+      <actor>Max von Sydow</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Linda Blair</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406035000 -0300" stop="20180406063000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Superman</title>
+    <sub-title lang="pt">O Retorno</sub-title>
+    <desc lang="pt">Anos após um súbito desaparecimento, Superman retorna. Mas a situação é outra, a cidade se acostumou a viver sem ele. Agora além de se adaptar à nova realidade, terá de enfrentar um antigo inimigo que planeja acabar com ele(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Brandon Routh</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Kate Bosworth</actor>
+      <actor>James Marsden</actor>
+      <actor>Frank Langella</actor>
+      <actor>Sam Huntington</actor>
+      <actor>Eva Marie Saint</actor>
+      <actor>Marlon Brando</actor>
+      <actor>Kal Penn</actor>
+      <actor>Tristan Lake Leabu</actor>
+      <actor>Ian Roberts</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406063000 -0300" stop="20180406075500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Lego Liga da Justiça: Fuga em Massa em Gotham City</title>
+    <desc lang="pt">Batman decide finalmente tirar suas merecidas férias e deixar Gotham City sob os cuidados da Liga da Justiça. Mas enquanto Batman enfrenta velhos inimigos durante sua viagem, a Liga descobre como é difícil ser o Batman(n)</desc>
+    <credits>
+      <director>Matt Peters</director>
+      <director>Melchior Zwyer</director>
+      <actor>Troy Baker</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Greg Cipes</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Grey DeLisle. Amy Hill</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406075500 -0300" stop="20180406094500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Jumanji</title>
+    <desc lang="pt">Crianças acham jogo que é capaz de liberar animais de outro mundo e com isso trazem também de volta um garoto, agora já adulto, aprisionado há 30 anos(n)</desc>
+    <credits>
+      <director>Joe Johnston</director>
+      <actor>Robin Williams</actor>
+      <actor>Bonnie Hunt</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Bradley Pierce</actor>
+      <actor>Bebe Neuwirth</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>David Alan Grier</actor>
+      <actor>Laura Bell Bundy</actor>
+      <actor>Cyrus Thiedeke</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406094500 -0300" stop="20180406114000 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Longa Caminhada de Billy Lynn</title>
+    <desc lang="pt">Billy Lynn é um jovem soldado, que consegue sobreviver a um tiroteio no Iraque em 2005. Para recompensá-los, o presidente Bush leva toda a tropa de volta aos EUA, a tempo de receber uma homenagem(n)</desc>
+    <credits>
+      <director>Ang Lee</director>
+      <actor>Joe Alwyn</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Arturo Castro</actor>
+      <actor>Mason Lee</actor>
+      <actor>Astro</actor>
+      <actor>Beau Knapp</actor>
+      <actor>Ismael Cruz Cordova</actor>
+      <actor>Barney Harris</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Steve Martin</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406114000 -0300" stop="20180406135500 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Fugitivo</title>
+    <desc lang="pt">Acusado de assassinar sua esposa, Dr. Richard Kimble escapa de sua ida para a prisão e tenta descobrir porque ela foi morta e quem a matou(n)</desc>
+    <credits>
+      <director>Andrew Davis</director>
+      <actor>Harrison Ford</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Sela Ward</actor>
+      <actor>Jeroen Krabbe</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406135500 -0300" stop="20180406153000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Refém do Medo</title>
+    <desc lang="pt">Mary Portman é uma psicóloga infantil no interior do Maine. Um acidente de carro a deixou viúva e deixou seu enteado Stephen dependente de cuidados especiais(n)</desc>
+    <credits>
+      <director>Farren Blackburn</director>
+      <actor>Naomi Watts</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Jacob Tremblay</actor>
+      <actor>David Cubitt</actor>
+      <actor>Ellen David</actor>
+      <actor>Tim Post</actor>
+      <actor>Peter Outerbridge</actor>
+      <actor>Charlie Heaton</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406153000 -0300" stop="20180406160000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Silicon Valley é um sitcom dos Estados Unidos, que conta a história de seis programadores que tentam construir uma carreira bem sucedida no Vale do Silício, Califórnia(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Martin Starr</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Katerina Baruffi</actor>
+      <actor>Bianca Bonciu</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Rachel Rosenbloom</actor>
+      <actor>Chris Williams</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406160000 -0300" stop="20180406163500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Barry</title>
+    <desc lang="pt">Um ex-fuzileiro naval solitário e insatisfeito que trabalha como assassino de aluguel viaja para Los Angeles para fazer um serviço e acaba descobrindo que a comunidade de atores da cidade é uma comunidade disposta a abraçá-lo(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Bill Hader</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Stephen Root</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Anthony Carrigan</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406163500 -0300" stop="20180406181500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Um Monstro no Caminho</title>
+    <desc lang="pt">Kathy viaja até a casa de seu ex-marido para levar sua filha Lizzy. Enquanto atravessam um trecho com uma floresta, Kathy atropela algo estranho(n)</desc>
+    <credits>
+      <director>Bryan Bertino</director>
+      <actor>Zoe Kazan</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Ella Ballentine</actor>
+      <actor>Aaron Douglas</actor>
+      <actor>Christine Ebadi</actor>
+      <actor>Marc Hickox</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406181500 -0300" stop="20180406190000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Destino Salvador</title>
+    <desc lang="pt">Destino Salvador apresenta seis histórias, seis destinos forjados na cidade tão celebrada por seus ritmos, seus sabores e a alegria de seu povo(n)</desc>
+    <credits>
+      <director>Luciano Moura</director>
+      <actor>Edith Méric</actor>
+      <actor>Alice Mazur</actor>
+      <actor>Renan Motta</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406190000 -0300" stop="20180406200500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Fora do Armário</title>
+    <desc lang="pt">Fora do Armário revelam o que acontece depois que uma pessoa “sai do armário” e expõe sua orientação e identidade sexual. Por meio de entrevistas e cenas da vida real no estilo “Cinema Verité”(n)</desc>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406200500 -0300" stop="20180406220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Especialista em Crise</title>
+    <desc lang="pt">A consultora política Jane Bodine é especialista em conseguir contornar situações adversas. Apesar de estar aposentada, decide trabalhar para o candido a presidência Pedro Castillo(n)</desc>
+    <credits>
+      <director>David Gordon Green</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Billy Bob Thornton</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Joaquim de Almeida</actor>
+      <actor>Ann Dowd</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Dominic Flores</actor>
+      <actor>Reynaldo Pacheco</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406220000 -0300" stop="20180406234500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Chips</title>
+    <sub-title lang="pt">O Filme</sub-title>
+    <desc lang="pt">Jon é um motociclista que tenta salvar seu casamento, enquanto Frank é um agente que investiga o roubo onde alguns policiais estão envolvidos(n)</desc>
+    <credits>
+      <director>Dax Shepard</director>
+      <actor>Michael Peña</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Adam Brody</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Jane Kaczmarek</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180406234500 -0300" stop="20180407004500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Here and Now</title>
+    <desc lang="pt">Série Original HBO apresenta uma reflexão provocativa e de humor negro sobre as forças desiguais que polarizam a atual cultura americana(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Holly Hunter</actor>
+      <actor>Sosie Bacon</actor>
+      <actor>Avynn Crowder-Jones</actor>
+      <actor>Jerrika Hinton</actor>
+      <actor>Sosie Bacon</actor>
+      <actor>Madisen Beaty</actor>
+      <actor>Madeline Bertani</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
